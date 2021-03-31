@@ -1,0 +1,8 @@
+qgis/
+__pycache__/
+.ipynb_checkpoints/
+mnl_env/
+common.py
+data-sources.txt
+mn-lakes.ipynb
+/data-dev
