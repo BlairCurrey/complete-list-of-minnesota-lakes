@@ -2,7 +2,7 @@
 
 Minnesota is proudly known as the land of 10,000 lakes but it's not so easy to find data on more than a subset of them. This dataset is the most complete list of lakes in Minnesota that I was able to put together. I was searching for this dataset myself but was surprised to find woefully incomplete sources. The sources found only included about 2000-4000 lakes, while Minnesota officially recognizes 11,842.
 
-This dataset includes [`lakes-and-ponds.csv`](lakes-and-ponds.csv) which includes all `"Lake or Pond"` records from a MN DNR source and excludes duplicate records and sub-basins (such as bays, lake sections, etc). The other dataset is [`lakes.csv`](lakes.csv), which includes all records in `lakes-and-ponds.csv` that are 10 acres or more in size. This dataset actually includes more than Minnesota's official tally of 11,842 which indicates further refinement may be needed to remove extraneous records.
+This dataset includes [`lakes-and-ponds.csv`](lakes-and-ponds.csv) which includes all `"Lake or Pond"` records from a MN DNR source and excludes duplicate records and sub-basins (such as bays, lake sections, etc). The other dataset is [`lakes.csv`](lakes.csv), which includes all records in [`lakes-and-ponds.csv`](lakes-and-ponds.csv) that are 10 acres or more in size. This dataset actually includes more than Minnesota's official tally of 11,842 which indicates further refinement may be needed to remove extraneous records.
 
 ### Data Features
 |       |      name |      acres | shore_miles | County   |
